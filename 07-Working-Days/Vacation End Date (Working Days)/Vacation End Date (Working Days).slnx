@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vacation End Date (Working Days)/Vacation End Date (Working Days).vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Overlap Days Between Periods/Overlap Days Between Periods.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Same-Position-Intersection/Same-Position-Intersection.vcxproj" />
+</Solution>

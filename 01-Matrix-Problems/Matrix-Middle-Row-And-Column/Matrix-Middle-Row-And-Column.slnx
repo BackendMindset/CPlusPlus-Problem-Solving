@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Matrix-Middle-Row-And-Column/Matrix-Middle-Row-And-Column.vcxproj" />
+</Solution>

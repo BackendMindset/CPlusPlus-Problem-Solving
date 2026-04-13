@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="String-Letter-Count-Using-Reference/String-Letter-Count-Using-Reference.vcxproj" />
+</Solution>

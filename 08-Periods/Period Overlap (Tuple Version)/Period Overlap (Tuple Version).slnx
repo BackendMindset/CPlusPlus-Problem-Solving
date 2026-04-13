@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Period Overlap (Tuple Version)/Period Overlap (Tuple Version).vcxproj" />
+</Solution>

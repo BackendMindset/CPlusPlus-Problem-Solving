@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Replace-Word-Using-Split/Replace-Word-Using-Split.vcxproj" />
+</Solution>

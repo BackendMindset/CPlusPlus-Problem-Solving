@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Leap-Year/Leap-Year.vcxproj" Id="32e62e22-7285-43bc-a24e-c5d6e359ab58" />
+</Solution>

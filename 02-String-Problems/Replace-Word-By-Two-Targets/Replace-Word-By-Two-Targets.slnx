@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Replace-Word-By-Two-Targets/Replace-Word-By-Two-Targets.vcxproj" />
+</Solution>
